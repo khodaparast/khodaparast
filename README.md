@@ -11,5 +11,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: love to learn more!
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khodaparast)](https://github.com/khodaparast/github-readme-stats)
+[![Fatemeh's GitHub stats](https://github-readme-stats.vercel.app/api?username=khodaparast)](https://github.com/khodaparast/github-readme-stats)
 
