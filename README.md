@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ![Fatemeh's GitHub stats](https://github-readme-stats.vercel.app/api?username=khodaparast&show_icons=true&theme=radical)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khodaparast)](https://github.com/khodaparast/github-readme-stats&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khodaparast)](https://github.com/khodaparast/github-readme-stats&include_all_commits=true&show_icons=true&theme=radical)
 
 I would like to express my appreciation to the creative producer of this stat visualization!
  https://github.com/anuraghazra/github-readme-stats#themes
