@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on security of the large storage systems
+- 🔭 I’m currently working on the security of the large storage systems
 - 📫 How to reach me: fkhoda@unb.ca
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: Love to learn more!
+- ⚡ Fun fact: love to learn more!
 
