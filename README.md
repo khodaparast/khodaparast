@@ -18,4 +18,5 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khodaparast)](https://github.com/khodaparast/github-readme-stats&show_icons=true&theme=radical)
 
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=khodaparast&repo=ceph)](https://github.com/khodaparast/repo-name)
+I would like to express my appreciation to the creative producer of this stat visualization!
+ https://github.com/anuraghazra/github-readme-stats#themes
